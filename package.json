@@ -1,0 +1,12 @@
+{
+  "name": "fibosbp-startup",
+  "version": "0.1.0",
+  "description": "fibos bp startup",
+  "repository": "git@github.com:fibosRocks/producerjson.git",
+  "keywords": "fibos",
+  "author": "FIBOS Fujian",
+  "license": "MIT",
+  "dependencies": {
+    "fibos.js": "^0.3.0"
+  }
+}
